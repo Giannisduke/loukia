@@ -9,7 +9,7 @@ wordpress_sites:
         redirects:
           - www.loukia.dev
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
-    admin_email: admin@loukia.dev
+    admin_email: admin@loukia.gr
     multisite:
       enabled: false
     ssl:

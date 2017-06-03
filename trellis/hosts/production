@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [production]
-loukia.gr
+139.59.145.148
 
 [web]
-loukia.gr
+139.59.145.148

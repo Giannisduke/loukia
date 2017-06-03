@@ -1,10 +1,10 @@
 # Documentation: https://roots.io/trellis/docs/vault/
-vault_mysql_root_password: devpw
+vault_mysql_root_password: "2u4N5YhJM-5D^n25M8S*^-ek"
 
 # Variables to accompany `group_vars/development/wordpress_sites.yml`
 # Note: the site name (`example.com`) must match up with the site name in the above file.
 vault_wordpress_sites:
   loukia.gr:
-    admin_password: admin
+    admin_password: "E=utrWC_G7NZYK_k-=Yq#w?M"
     env:
-      db_password: example_dbpassword
+      db_password: "8Hu^UDd76axGQzNg=4NcqrGQ"
