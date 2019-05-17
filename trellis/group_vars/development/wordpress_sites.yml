@@ -5,9 +5,9 @@
 wordpress_sites:
   loukia.gr:
     site_hosts:
-      - canonical: loukia.dev
+      - canonical: loukia.test
         redirects:
-          - www.loukia.dev
+          - www.loukia.test
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: admin@loukia.gr
     multisite:
